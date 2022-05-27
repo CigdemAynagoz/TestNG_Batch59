@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1db2da32-9171-44e1-93bf-42f879383bc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/FacebookPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day17_pom/C01_YeniDriverIlkClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day17_pom/C02_PageClassKullnaimi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day17_pom/C03_PageClassKullanimi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configurations.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day17_pom/C04_PozitiveTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day16_notations/C01_BeforeMethod_AfterMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C01_BeforeMethod_AfterMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day16_notations/C02_BeforeClass_AfterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C02_BeforeClass_AfterClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day16_notations/C03_Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C03_Priority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day16_notations/C04_DependsOnMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C04_DependsOnMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day16_notations/C05_Assertions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C05_Assertions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day16_notations/C06_SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C06_SoftAssert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day16_notations/C07_SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C07_SoftAssert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/C01_YoutubeAssertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/practice/C01_YoutubeAssertion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
