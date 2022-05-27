@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1db2da32-9171-44e1-93bf-42f879383bc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day16_notations/C02_BeforeClass_AfterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day16_notations/C03_Priority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day16_notations/C04_DependsOnMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day16_notations/C05_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day16_notations/C07_SoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/C01_YoutubeAssertion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day16_notations/C01_BeforeMethod_AfterMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day16_notations/C01_BeforeMethod_AfterMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day16_notations/C06_SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day16_notations/C06_SoftAssert.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,68 +36,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C05_Assertions.test01">
-    <configuration name="C02_BeforeClass_AfterClass" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C07_SoftAssert">
+    <configuration name="C01_YoutubeAssertion" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG_Batch59" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day16_notations.*" />
+          <option name="PATTERN" value="practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day16_notations" />
-      <option name="MAIN_CLASS_NAME" value="day16_notations.C02_BeforeClass_AfterClass" />
+      <option name="PACKAGE_NAME" value="practice" />
+      <option name="MAIN_CLASS_NAME" value="practice.C01_YoutubeAssertion" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_Priority" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG_Batch59" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day16_notations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day16_notations" />
-      <option name="MAIN_CLASS_NAME" value="day16_notations.C03_Priority" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_Priority.amazonTesti" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG_Batch59" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day16_notations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day16_notations" />
-      <option name="MAIN_CLASS_NAME" value="day16_notations.C03_Priority" />
-      <option name="METHOD_NAME" value="amazonTesti" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -142,13 +104,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C06_SoftAssert" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG_Batch59" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day16_notations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day16_notations" />
+      <option name="MAIN_CLASS_NAME" value="day16_notations.C06_SoftAssert" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_SoftAssert" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG_Batch59" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day16_notations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day16_notations" />
+      <option name="MAIN_CLASS_NAME" value="day16_notations.C07_SoftAssert" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C07_SoftAssert" />
+        <item itemvalue="TestNG.C01_YoutubeAssertion" />
+        <item itemvalue="TestNG.C06_SoftAssert" />
         <item itemvalue="TestNG.C05_Assertions.test01" />
         <item itemvalue="TestNG.C04_DependsOnMethods" />
-        <item itemvalue="TestNG.C03_Priority" />
-        <item itemvalue="TestNG.C03_Priority.amazonTesti" />
-        <item itemvalue="TestNG.C02_BeforeClass_AfterClass" />
       </list>
     </recent_temporary>
   </component>
