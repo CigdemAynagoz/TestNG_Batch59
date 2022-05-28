@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1db2da32-9171-44e1-93bf-42f879383bc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/configurations.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day17_pom/C04_PozitiveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day18_pom/C01_ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day18_pom/C02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configurations.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configurations.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +52,24 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C03_PageClassKullanimi">
+  <component name="RunManager" selected="TestNG.C02">
+    <configuration name="C01_ConfigReader" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG_Batch59" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day18_pom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day18_pom" />
+      <option name="MAIN_CLASS_NAME" value="tests.day18_pom.C01_ConfigReader" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C01_YeniDriverIlkClass" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG_Batch59" />
       <extension name="coverage">
@@ -67,16 +87,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_YoutubeAssertion" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C02" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG_Batch59" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="tests.day18_pom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="practice" />
-      <option name="MAIN_CLASS_NAME" value="practice.C01_YoutubeAssertion" />
+      <option name="PACKAGE_NAME" value="tests.day18_pom" />
+      <option name="MAIN_CLASS_NAME" value="tests.day18_pom.C02" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -118,30 +138,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_SoftAssert" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG_Batch59" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day16_notations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day16_notations" />
-      <option name="MAIN_CLASS_NAME" value="day16_notations.C07_SoftAssert" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C02" />
+        <item itemvalue="TestNG.C01_ConfigReader" />
         <item itemvalue="TestNG.C03_PageClassKullanimi" />
         <item itemvalue="TestNG.C02_PageClassKullnaimi" />
         <item itemvalue="TestNG.C01_YeniDriverIlkClass" />
-        <item itemvalue="TestNG.C07_SoftAssert" />
-        <item itemvalue="TestNG.C01_YoutubeAssertion" />
       </list>
     </recent_temporary>
   </component>
