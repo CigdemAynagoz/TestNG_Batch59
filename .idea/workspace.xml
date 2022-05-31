@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1db2da32-9171-44e1-93bf-42f879383bc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/CanHocaSoru3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/CanHocaSoru4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DHtmlPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/SauceDemoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/WebDriverUniversityPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/Q1_Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/Q2_DependsOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/Q3_SoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/Q4_Alert_DependsOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/Q5_DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/Q6_DropDown_FakerClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,32 +41,36 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/90531/IdeaProjects/TestNG_Batch59/src/test/java/tests",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\90531\IdeaProjects\TestNG_Batch59\src\test\java\tests" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C02">
-    <configuration name="C01_ConfigReader" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Q5_DragAndDrop">
+    <configuration name="Q3_SoftAssert" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG_Batch59" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day18_pom.*" />
+          <option name="PATTERN" value="tests.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day18_pom" />
-      <option name="MAIN_CLASS_NAME" value="tests.day18_pom.C01_ConfigReader" />
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.Q3_SoftAssert" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -67,16 +78,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_YeniDriverIlkClass" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Q3_SoftAssert.sauceDemoHard" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG_Batch59" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day17_pom.*" />
+          <option name="PATTERN" value="tests.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day17_pom" />
-      <option name="MAIN_CLASS_NAME" value="tests.day17_pom.C01_YeniDriverIlkClass" />
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.Q3_SoftAssert" />
+      <option name="METHOD_NAME" value="sauceDemoHard" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q3_SoftAssert.sauceDemoSoft" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG_Batch59" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.Q3_SoftAssert" />
+      <option name="METHOD_NAME" value="sauceDemoSoft" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q4_Alert_DependsOn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG_Batch59" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.Q4_Alert_DependsOn" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -84,50 +131,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Q5_DragAndDrop" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG_Batch59" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day18_pom.*" />
+          <option name="PATTERN" value="tests.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day18_pom" />
-      <option name="MAIN_CLASS_NAME" value="tests.day18_pom.C02" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_PageClassKullnaimi" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG_Batch59" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day17_pom.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day17_pom" />
-      <option name="MAIN_CLASS_NAME" value="tests.day17_pom.C02_PageClassKullnaimi" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_PageClassKullanimi" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG_Batch59" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day17_pom.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day17_pom" />
-      <option name="MAIN_CLASS_NAME" value="tests.day17_pom.C03_PageClassKullanimi" />
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.Q5_DragAndDrop" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -137,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C02" />
-        <item itemvalue="TestNG.C01_ConfigReader" />
-        <item itemvalue="TestNG.C03_PageClassKullanimi" />
-        <item itemvalue="TestNG.C02_PageClassKullnaimi" />
-        <item itemvalue="TestNG.C01_YeniDriverIlkClass" />
+        <item itemvalue="TestNG.Q5_DragAndDrop" />
+        <item itemvalue="TestNG.Q4_Alert_DependsOn" />
+        <item itemvalue="TestNG.Q3_SoftAssert" />
+        <item itemvalue="TestNG.Q3_SoftAssert.sauceDemoSoft" />
+        <item itemvalue="TestNG.Q3_SoftAssert.sauceDemoHard" />
       </list>
     </recent_temporary>
   </component>
