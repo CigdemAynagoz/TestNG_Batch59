@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1db2da32-9171-44e1-93bf-42f879383bc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DHtmlPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/SauceDemoPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/WebDriverUniversityPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/Q1_Priority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/Q2_DependsOn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/Q3_SoftAssert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/Q4_Alert_DependsOn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/Q5_DragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/Q6_DropDown_FakerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day19_smokeTest/PozitifLoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +53,25 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Q5_DragAndDrop">
+  <component name="RunManager" selected="TestNG.PozitifLoginTest.test01">
+    <configuration name="PozitifLoginTest.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG_Batch59" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day19_smokeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day19_smokeTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.day19_smokeTest.PozitifLoginTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Q3_SoftAssert" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG_Batch59" />
       <extension name="coverage">
@@ -72,24 +83,6 @@
       <option name="PACKAGE_NAME" value="tests.practice" />
       <option name="MAIN_CLASS_NAME" value="tests.practice.Q3_SoftAssert" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q3_SoftAssert.sauceDemoHard" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG_Batch59" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.practice" />
-      <option name="MAIN_CLASS_NAME" value="tests.practice.Q3_SoftAssert" />
-      <option name="METHOD_NAME" value="sauceDemoHard" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -150,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PozitifLoginTest.test01" />
         <item itemvalue="TestNG.Q5_DragAndDrop" />
         <item itemvalue="TestNG.Q4_Alert_DependsOn" />
         <item itemvalue="TestNG.Q3_SoftAssert" />
         <item itemvalue="TestNG.Q3_SoftAssert.sauceDemoSoft" />
-        <item itemvalue="TestNG.Q3_SoftAssert.sauceDemoHard" />
       </list>
     </recent_temporary>
   </component>

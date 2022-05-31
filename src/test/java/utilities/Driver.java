@@ -16,6 +16,9 @@ public class Driver {
      driver olusturup, ilgili ayarlarin yapilmasi
      ve en sonda driver'in kapatilmasi tercih edilmistir.
       */
+    public Driver(){
+
+    }
     static WebDriver driver;
     public static WebDriver getDriver(){
         if (driver==null) {
