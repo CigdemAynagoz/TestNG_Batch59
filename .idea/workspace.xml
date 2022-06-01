@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1db2da32-9171-44e1-93bf-42f879383bc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/belirliClasslariCalistirma.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BrcPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day19_smokeTest/E2E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day19_smokeTest/NegatifLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belirliGruplariCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belirliPackageOlusturma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belirliTestMethodlariCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tumTestleriCalistirma.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configurations.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configurations.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belirliClasslariCalistirma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/belirliClasslariCalistirma.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C03_Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C03_Priority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C04_DependsOnMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C04_DependsOnMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C06_SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day16_notations/C06_SoftAssert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day17_pom/C01_YeniDriverIlkClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day17_pom/C01_YeniDriverIlkClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/day19_smokeTest/PozitifLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day19_smokeTest/PozitifLoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +61,7 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/90531/IdeaProjects/TestNG_Batch59/src/belirliClasslariCalistirma.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/90531/IdeaProjects/TestNG_Batch59/src/tumTestleriCalistirma.xml">
     <configuration name="C:/Users/90531/IdeaProjects/TestNG_Batch59/src/belirliClasslariCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG_Batch59" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirliClasslariCalistirma.xml" />
@@ -69,69 +72,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NegatifLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/90531/IdeaProjects/TestNG_Batch59/src/belirliGruplariCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG_Batch59" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day19_smokeTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day19_smokeTest" />
-      <option name="MAIN_CLASS_NAME" value="tests.day19_smokeTest.NegatifLoginTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirliGruplariCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PozitifLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/90531/IdeaProjects/TestNG_Batch59/src/belirliPackageOlusturma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG_Batch59" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day19_smokeTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day19_smokeTest" />
-      <option name="MAIN_CLASS_NAME" value="tests.day19_smokeTest.PozitifLoginTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirliPackageOlusturma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PozitifLoginTest.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/90531/IdeaProjects/TestNG_Batch59/src/belirliTestMethodlariCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG_Batch59" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day19_smokeTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day19_smokeTest" />
-      <option name="MAIN_CLASS_NAME" value="tests.day19_smokeTest.PozitifLoginTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/belirliTestMethodlariCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q5_DragAndDrop" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/90531/IdeaProjects/TestNG_Batch59/src/tumTestleriCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG_Batch59" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day19_smokeTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.practice" />
-      <option name="MAIN_CLASS_NAME" value="tests.practice.Q5_DragAndDrop" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/tumTestleriCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -140,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/90531/IdeaProjects/TestNG_Batch59/src/tumTestleriCalistirma.xml" />
+        <item itemvalue="TestNG.C:/Users/90531/IdeaProjects/TestNG_Batch59/src/belirliGruplariCalistirma.xml" />
+        <item itemvalue="TestNG.C:/Users/90531/IdeaProjects/TestNG_Batch59/src/belirliTestMethodlariCalistirma.xml" />
+        <item itemvalue="TestNG.C:/Users/90531/IdeaProjects/TestNG_Batch59/src/belirliPackageOlusturma.xml" />
         <item itemvalue="TestNG.C:/Users/90531/IdeaProjects/TestNG_Batch59/src/belirliClasslariCalistirma.xml" />
-        <item itemvalue="TestNG.NegatifLoginTest" />
-        <item itemvalue="TestNG.PozitifLoginTest" />
-        <item itemvalue="TestNG.PozitifLoginTest.test01" />
-        <item itemvalue="TestNG.Q5_DragAndDrop" />
       </list>
     </recent_temporary>
   </component>

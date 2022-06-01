@@ -10,6 +10,7 @@ public class PozitifLoginTest {
     BrcPage brcPage=new BrcPage();
     @Test
     public void pozitifLoginTest() {
+        brcPage=new BrcPage();
         // Bir test method olustur positiveLoginTest()
         //		 https://www.bluerentalcars.com/ adresine git
         Driver.getDriver().get(ConfigReader.getProperty("brcUrl"));
