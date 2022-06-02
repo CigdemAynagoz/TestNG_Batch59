@@ -6,16 +6,17 @@ import pages.BrcPage;
 import utilities.ConfigReader;
 import utilities.Driver;
 
+import static utilities.TestBaseRapor.extentReports;
+
 public class PozitifLoginTest {
     BrcPage brcPage=new BrcPage();
     @Test
-    public void pozitifLoginTest() {
-        brcPage=new BrcPage();
+    public void positiveLoginTest() {
         // Bir test method olustur positiveLoginTest()
         //		 https://www.bluerentalcars.com/ adresine git
         Driver.getDriver().get(ConfigReader.getProperty("brcUrl"));
         //		login butonuna bas
-        brcPage.ilkLogin.click();
+        brcPage.ilkLoginButonu.click();
         // test data user email: customer@bluerentalcars.com ,
         brcPage.emailTextBox.sendKeys(ConfigReader.getProperty("brcValidEmail"));
         // test data password : 12345
