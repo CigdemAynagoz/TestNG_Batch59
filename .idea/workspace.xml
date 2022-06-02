@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1db2da32-9171-44e1-93bf-42f879383bc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HotelPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day21_reusableMethods_HtmlPeports/C01_WindowHandleREusableMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/CanHoca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day21_reusableMethods_HtmlPeports/C02_ScreenShotReusableMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day21_reusableMethods_HtmlPeports/C03_PozitiveLoginTestiRaporlu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseRapor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configurations.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configurations.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day19_smokeTest/E2E.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day19_smokeTest/E2E_CreateHotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day21_reusableMethods_HtmlPeports/C01_WindowHandleREusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day21_reusableMethods_HtmlPeports/C01_WindowHandleREusableMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C01_WindowHandleREusableMethods.test02">
+  <component name="RunManager" selected="TestNG.C02_ScreenShotReusableMethod">
     <configuration name="C01_BeforeMethod_AfterMethod" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG_Batch59" />
       <extension name="coverage">
@@ -110,6 +109,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C02_ScreenShotReusableMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG_Batch59" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day21_reusableMethods_HtmlPeports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day21_reusableMethods_HtmlPeports" />
+      <option name="MAIN_CLASS_NAME" value="tests.day21_reusableMethods_HtmlPeports.C02_ScreenShotReusableMethod" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C03_Priority" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG_Batch59" />
       <extension name="coverage">
@@ -127,30 +143,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4_Alert_DependsOn" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG_Batch59" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.practice" />
-      <option name="MAIN_CLASS_NAME" value="tests.practice.Q4_Alert_DependsOn" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C02_ScreenShotReusableMethod" />
         <item itemvalue="TestNG.C01_WindowHandleREusableMethods.test02" />
         <item itemvalue="TestNG.C01_WindowHandleREusableMethods" />
         <item itemvalue="TestNG.C03_Priority" />
         <item itemvalue="TestNG.C01_BeforeMethod_AfterMethod" />
-        <item itemvalue="TestNG.Q4_Alert_DependsOn" />
       </list>
     </recent_temporary>
   </component>
