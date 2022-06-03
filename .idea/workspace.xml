@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1db2da32-9171-44e1-93bf-42f879383bc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CrossBrowserClassCalistirma.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day22_crossBrowser/C01_AssertionsCross.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day22_crossBrowser/C02_SoftAssertCross.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/CrossDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseCross.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrossBrowserParalelCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day22_crossBrowser/C03_DataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day22_crossBrowser/C04_NegatifLoginDataProvider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/BrcPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/BrcPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,17 +56,17 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/90531/IdeaProjects/TestNG_Batch59/src/CrossBrowserClassCalistirma.xml">
-    <configuration name="C03_PozitiveLoginTestiRaporlu" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C04_NegatifLoginDataProvider">
+    <configuration name="C03_DataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG_Batch59" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.day21_reusableMethods_HtmlPeports.*" />
+          <option name="PATTERN" value="tests.day22_crossBrowser.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.day21_reusableMethods_HtmlPeports" />
-      <option name="MAIN_CLASS_NAME" value="tests.day21_reusableMethods_HtmlPeports.C03_PozitiveLoginTestiRaporlu" />
+      <option name="PACKAGE_NAME" value="tests.day22_crossBrowser" />
+      <option name="MAIN_CLASS_NAME" value="tests.day22_crossBrowser.C03_DataProvider" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -75,54 +74,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/90531/IdeaProjects/TestNG_Batch59/src/CrossBrowserClassCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_DataProvider.dataProviderTesti" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG_Batch59" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/CrossBrowserClassCalistirma.xml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day22_crossBrowser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day22_crossBrowser" />
+      <option name="MAIN_CLASS_NAME" value="tests.day22_crossBrowser.C03_DataProvider" />
+      <option name="METHOD_NAME" value="dataProviderTesti" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_DataProvider.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG_Batch59" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day22_crossBrowser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day22_crossBrowser" />
+      <option name="MAIN_CLASS_NAME" value="tests.day22_crossBrowser.C03_DataProvider" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_NegatifLoginDataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG_Batch59" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day22_crossBrowser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day22_crossBrowser" />
+      <option name="MAIN_CLASS_NAME" value="tests.day22_crossBrowser.C04_NegatifLoginDataProvider" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/90531/IdeaProjects/TestNG_Batch59/src/CrossBrowserParalelCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG_Batch59" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/CrossBrowserParalelCalistirma.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/90531/IdeaProjects/TestNG_Batch59/src/tumTestleriParelelCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG_Batch59" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/tumTestleriParelelCalistirma.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PozitifLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG_Batch59" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day19_smokeTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day19_smokeTest" />
-      <option name="MAIN_CLASS_NAME" value="tests.day19_smokeTest.PozitifLoginTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RentalCarTask" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG_Batch59" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.practice" />
-      <option name="MAIN_CLASS_NAME" value="tests.practice.RentalCarTask" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -131,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/90531/IdeaProjects/TestNG_Batch59/src/CrossBrowserClassCalistirma.xml" />
-        <item itemvalue="TestNG.RentalCarTask" />
-        <item itemvalue="TestNG.PozitifLoginTest" />
-        <item itemvalue="TestNG.C:/Users/90531/IdeaProjects/TestNG_Batch59/src/tumTestleriParelelCalistirma.xml" />
-        <item itemvalue="TestNG.C03_PozitiveLoginTestiRaporlu" />
+        <item itemvalue="TestNG.C04_NegatifLoginDataProvider" />
+        <item itemvalue="TestNG.C03_DataProvider.dataProviderTesti" />
+        <item itemvalue="TestNG.C03_DataProvider.test01" />
+        <item itemvalue="TestNG.C03_DataProvider" />
+        <item itemvalue="TestNG.C:/Users/90531/IdeaProjects/TestNG_Batch59/src/CrossBrowserParalelCalistirma.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -160,16 +168,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/tests/day22_crossBrowser/C02_SoftAssertCross.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

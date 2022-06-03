@@ -19,10 +19,10 @@ public class RentalCarTask {
         brcPage.ilkLoginButonu.click();
 
         //brcValidEmail=customer@bluerentalcars.com
-        brcPage.emailKutusu.sendKeys(ConfigReader.getProperty("brcValidEmail"));
+      //  brcPage.emailKutusu.sendKeys(ConfigReader.getProperty("brcValidEmail"));
 
         //brcValidPassword=12345
-        brcPage.passwordKutusu.sendKeys(ConfigReader.getProperty("brcValidPassword"));
+       // brcPage.passwordKutusu.sendKeys(ConfigReader.getProperty("brcValidPassword"));
         brcPage.ikinciLoginButonu.click();
 
         //-> Audi Q8 i secip reservasyon yapalim
