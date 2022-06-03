@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1db2da32-9171-44e1-93bf-42f879383bc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day20_xmlFiles/C01_BugunXmlDosyalarıOlusturuldu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tumTestleriParelelCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/practice/RentalCarTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configurations.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configurations.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/BrcPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/BrcPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/day19_smokeTest/PozitifLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day19_smokeTest/PozitifLoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/day21_reusableMethods_HtmlPeports/C03_PozitiveLoginTestiRaporlu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/day21_reusableMethods_HtmlPeports/C03_PozitiveLoginTestiRaporlu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBaseRapor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseRapor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,42 +55,7 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/90531/IdeaProjects/TestNG_Batch59/src/tumTestleriParelelCalistirma.xml">
-    <configuration name="C01_WindowHandleREusableMethods" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG_Batch59" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day21_reusableMethods_HtmlPeports.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day21_reusableMethods_HtmlPeports" />
-      <option name="MAIN_CLASS_NAME" value="tests.day21_reusableMethods_HtmlPeports.C01_WindowHandleREusableMethods" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_WindowHandleREusableMethods.test02" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG_Batch59" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.day21_reusableMethods_HtmlPeports.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.day21_reusableMethods_HtmlPeports" />
-      <option name="MAIN_CLASS_NAME" value="tests.day21_reusableMethods_HtmlPeports.C01_WindowHandleREusableMethods" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.RentalCarTask">
     <configuration name="C02_ScreenShotReusableMethod" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG_Batch59" />
       <extension name="coverage">
@@ -136,13 +100,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PozitifLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG_Batch59" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day19_smokeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day19_smokeTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.day19_smokeTest.PozitifLoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RentalCarTask" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG_Batch59" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.practice" />
+      <option name="MAIN_CLASS_NAME" value="tests.practice.RentalCarTask" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RentalCarTask" />
+        <item itemvalue="TestNG.PozitifLoginTest" />
         <item itemvalue="TestNG.C:/Users/90531/IdeaProjects/TestNG_Batch59/src/tumTestleriParelelCalistirma.xml" />
         <item itemvalue="TestNG.C03_PozitiveLoginTestiRaporlu" />
         <item itemvalue="TestNG.C02_ScreenShotReusableMethod" />
-        <item itemvalue="TestNG.C01_WindowHandleREusableMethods.test02" />
-        <item itemvalue="TestNG.C01_WindowHandleREusableMethods" />
       </list>
     </recent_temporary>
   </component>
