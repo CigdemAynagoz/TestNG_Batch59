@@ -51,6 +51,6 @@ public class C04_DependsOnMethods  {
 
     @Test(groups = {"grup1","grup2"})
     public void test04() {
-        System.out.println("bu da calıstı");
+        System.out.println("bu da calıs");
     }
 }
